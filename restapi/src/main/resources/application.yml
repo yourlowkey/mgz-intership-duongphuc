@@ -1,0 +1,8 @@
+#flyway:
+#  datasources:
+#    default:
+#      enabled: true
+#endpoints:
+#  flyway:
+#    enabled: true
+#    sensitive: false
